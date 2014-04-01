@@ -1,0 +1,12 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:gudi="http://dal.ca#">
+  <gudi:thandu rdf:about="http://dal.ca#wassup">
+    <gudi:roomMate rdf:resource="http://dal.ca#haree"/>
+    <gudi:job>god knows</gudi:job>
+  </gudi:thandu>
+  <rdf:Description rdf:about="http://dal.ca#thandu">
+    <gudi:job>dalplex1</gudi:job>
+    <gudi:roomMate rdf:resource="http://dal.ca#haree"/>
+  </rdf:Description>
+</rdf:RDF>

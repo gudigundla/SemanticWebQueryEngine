@@ -1,0 +1,1353 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:gudi="http://dal.ca#"
+    xmlns:obis="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#">
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs21847588">
+    <obis:depthprecision>0</obis:depthprecision>
+    <obis:datecollected></obis:datecollected>
+    <obis:dateprecision></obis:dateprecision>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:depth>0</obis:depth>
+    <obis:valid_id>473278</obis:valid_id>
+    <obis:datelastmodified>2007-12-05T16:31:06-05:00</obis:datelastmodified>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource504">
+        <obis:gcmd_id>seamap427</obis:gcmd_id>
+        <obis:usage>By accepting this document and using OBIS-SEAMAP the user agrees to the following: 1. Not to use data contained in OBIS-SEAMAP in any publication, product, or commercial application without prior written consent of the original data provider. 2. To cite both the data provider and OBIS-SEAMAP appropriately after approval of use is obtained. Example citation for a dataset: Read, A.J. &amp; A.J. Westgate. 1997. Monitoring the movements of harbour porpoises (Phocoena phocoena) with satellite telemetry. Marine Biology, 130: 315-322 . Suggested citation for OBIS-SEAMAP: Read, A.J., Halpin, P.N., Crowder, L.B., Best, B.D., Fujioka, E.(Editors). 2007. OBIS-SEAMAP: mapping marine mammals, birds and turtles. World Wide Web electronic publication. http://seamap.env.duke.edu, Accessed on (date of your access). 3. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references. 4. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.</obis:usage>
+        <obis:acronym></obis:acronym>
+        <obis:geographicscope></obis:geographicscope>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:digirname>zd_427</obis:digirname>
+        <obis:citation></obis:citation>
+        <obis:digirurl>http://seamap.env.duke.edu/digir/DiGIR.php</obis:digirurl>
+        <obis:ron_id></obis:ron_id>
+        <obis:created>2008-09-22 14:31:59-04</obis:created>
+        <obis:abstract>The European Seabirds at Sea Database (ESAS) was established in 1991 as a collaboration between individuals and institutes who had collected data on the distribution of seabirds and marine mammals in north-west European offshore areas. The most recent version of this database contains over two million records which were collected over 25 years.</obis:abstract>
+        <obis:taxonscope></obis:taxonscope>
+        <obis:website>http://seamap.env.duke.edu/datasets/detail/427</obis:website>
+        <obis:provider_id>30</obis:provider_id>
+        <obis:temporalscope></obis:temporalscope>
+        <obis:resfullname>European Seabirds at Sea - JNCC All Trips (OBIS SEA-MAP)</obis:resfullname>
+        <obis:id_resource>504</obis:id_resource>
+        <obis:fproject_id>16</obis:fproject_id>
+        <obis:resname>European Seabirds at Sea - JNCC All Trips</obis:resname>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:temperature></obis:temperature>
+    <obis:longitude>-6.1830001</obis:longitude>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname347146">
+        <obis:snamestring>Sula bassanus</obis:snamestring>
+        <obis:accuracy></obis:accuracy>
+        <obis:concatenated>Animalia|Chordata|Aves|Ciconiiformes|Sulidae|Sula||bassanus||Sula bassanus|</obis:concatenated>
+        <obis:tname_id>557818</obis:tname_id>
+        <obis:lifestage></obis:lifestage>
+        <obis:sauthor></obis:sauthor>
+        <obis:id_sname>347146</obis:id_sname>
+        <obis:tname>Sula bassana</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:tauthor>(Linnaeus, 1758)</obis:tauthor>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:latitude>55.432999</obis:latitude>
+    <obis:position_id>1914854</obis:position_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:id>21847588</obis:id>
+    <obis:sname_id>347146</obis:sname_id>
+    <obis:datelastcached>2009-12-22 16:47:33</obis:datelastcached>
+    <obis:display>1</obis:display>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs11680564">
+    <obis:lifestage></obis:lifestage>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource168">
+        <obis:geographicscope>Latitude: -34.83 to  -27.46; Longitude:  15.39 to   32.68</obis:geographicscope>
+        <obis:resfullname>Marine and Coastal Management - Linefish Dataset (AfrOBIS)</obis:resfullname>
+        <obis:provider_id>1</obis:provider_id>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:digirurl>http://fred.csir.co.za:8000/digir/DiGIR.php</obis:digirurl>
+        <obis:ron_id>2</obis:ron_id>
+        <obis:temporalscope>1987-1987</obis:temporalscope>
+        <obis:digirname>MCM_Linefish</obis:digirname>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:id_resource>168</obis:id_resource>
+        <obis:citation>Marine and Coastal Management - Linefish Dataset</obis:citation>
+        <obis:acronym></obis:acronym>
+        <obis:usage>Acknowledge the use of specific records from contributing databases in the form appearing in the 'Citation' field thereof (if any); and acknowledge the use of the OBIS facility. For information purposes, email to obissupport@marine.rutgers.edu the full citation of any publication made (printed or electronic) that cites OBIS or any constituent part. Recognize the limitations of data in OBIS see http://www.iobis.org/data/policy/disclaimer for details.</obis:usage>
+        <obis:resname>Marine and Coastal Management - Linefish Dataset (AfrOBIS)</obis:resname>
+        <obis:gcmd_id>mcm_linefish</obis:gcmd_id>
+        <obis:website>http://www.mcm-deat.gov.za/</obis:website>
+        <obis:created>2006-11-13 00:00:00-05</obis:created>
+        <obis:abstract>Marine and Coastal Management (MCM) is one of four branches of the Department of Environmental Affairs and Tourism. It is the regulatory authority responsible for managing all marine and coastal activities. The linefish dataset is collected around the South African Coast, and currently contains 2759599 records of 63 families.</obis:abstract>
+        <obis:taxonscope>VFA;VFE;IMoCS.</obis:taxonscope>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:id>11680564</obis:id>
+    <obis:datelastmodified>2006-11-07</obis:datelastmodified>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:datelastcached>2006-11-29 07:22:54</obis:datelastcached>
+    <obis:longitude>25.8531</obis:longitude>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname176757">
+        <obis:tname>Loligo vulgaris reynaudii</obis:tname>
+        <obis:accuracy></obis:accuracy>
+        <obis:tname_id>750219</obis:tname_id>
+        <obis:lifestage></obis:lifestage>
+        <obis:id_sname>176757</obis:id_sname>
+        <obis:sauthor></obis:sauthor>
+        <obis:tauthor></obis:tauthor>
+        <obis:remark></obis:remark>
+        <obis:snamestring>Loligo vulgaris reynaudii</obis:snamestring>
+        <obis:concatenated>Animalia|Mollusca|Cephalopoda|Teuthoidea|Loliginidae|Loligo||vulgaris reynaudii||Loligo vulgaris reynaudii|</obis:concatenated>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:depth></obis:depth>
+    <obis:position_id>409462</obis:position_id>
+    <obis:temperature></obis:temperature>
+    <obis:datecollected>2004-01-25 07:59:59.819999-04</obis:datecollected>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:latitude>-33.721298</obis:latitude>
+    <obis:display>1</obis:display>
+    <obis:valid_id>750219</obis:valid_id>
+    <obis:sname_id>176757</obis:sname_id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs12571687">
+    <obis:valid_id>625820</obis:valid_id>
+    <obis:dateprecision>182 days 23:59:59.819999</obis:dateprecision>
+    <obis:datelastcached>2007-01-23 16:29:27</obis:datelastcached>
+    <obis:longitude>103.71667</obis:longitude>
+    <obis:temperature></obis:temperature>
+    <obis:sname_id>150402</obis:sname_id>
+    <obis:position_id>143165</obis:position_id>
+    <obis:datelastmodified>2007-01-18TRomance Sta:ndard Time</obis:datelastmodified>
+    <obis:datecollected>1980-07-01 19:59:59.819999-03</obis:datecollected>
+    <obis:basisofrecord></obis:basisofrecord>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource216">
+        <obis:citation></obis:citation>
+        <obis:abstract></obis:abstract>
+        <obis:conceptualschema>http://www.iobis.org/obis</obis:conceptualschema>
+        <obis:resfullname>Long-term decline in krill stock and increase in salps within the Southern Ocean (SCAR-MarBIN: Antarctic OBIS)</obis:resfullname>
+        <obis:digirname>historic_krill</obis:digirname>
+        <obis:usage>Release with permission of the appropriate parties</obis:usage>
+        <obis:temporalscope></obis:temporalscope>
+        <obis:taxonscope>IArCrME.</obis:taxonscope>
+        <obis:ron_id>3</obis:ron_id>
+        <obis:created>2007-02-14 16:16:56-05</obis:created>
+        <obis:gcmd_id>scarmarbin_CCAMLR_historic_krill</obis:gcmd_id>
+        <obis:geographicscope></obis:geographicscope>
+        <obis:acronym></obis:acronym>
+        <obis:resname>Long-term decline in krill stock and increase in salps within the Southern Ocean</obis:resname>
+        <obis:id_resource>216</obis:id_resource>
+        <obis:digirurl>http://w2.scarmarbin.be/digir2/digir.php</obis:digirurl>
+        <obis:website>http://www.scarmarbin.be/Dataset.php?show=html&amp;dasid=1014</obis:website>
+        <obis:fproject_id>2</obis:fproject_id>
+        <obis:provider_id>32</obis:provider_id>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:latitude>-63.599998</obis:latitude>
+    <obis:lifestage></obis:lifestage>
+    <obis:id>12571687</obis:id>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:display>1</obis:display>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:depth></obis:depth>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname150402">
+        <obis:tname>Euphausia superba</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:snamestring>Euphausia superba</obis:snamestring>
+        <obis:tauthor>Dana, 1850</obis:tauthor>
+        <obis:sauthor></obis:sauthor>
+        <obis:id_sname>150402</obis:id_sname>
+        <obis:tname_id>625820</obis:tname_id>
+        <obis:accuracy></obis:accuracy>
+        <obis:concatenated>|||||||||Euphausia superba|</obis:concatenated>
+        <obis:lifestage></obis:lifestage>
+      </obis:sname>
+    </obis:sname_id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs20244154">
+    <obis:valid_id>737177</obis:valid_id>
+    <obis:display></obis:display>
+    <obis:depth></obis:depth>
+    <obis:temperature></obis:temperature>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource52">
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:acronym></obis:acronym>
+        <obis:geographicscope>Latitude: -34.03 to   69.48; Longitude: -81.49 to  178.30</obis:geographicscope>
+        <obis:id_resource>52</obis:id_resource>
+        <obis:temporalscope>Could not be determined. See the GCMD metadata.</obis:temporalscope>
+        <obis:digirname>microbis</obis:digirname>
+        <obis:fproject_id>13</obis:fproject_id>
+        <obis:website>http://icomm.mbl.edu</obis:website>
+        <obis:usage></obis:usage>
+        <obis:citation>ICoMM MICROBIS</obis:citation>
+        <obis:abstract>MICROBIS is a database of marine microbial biota , most gained from genomic analysis used in support of ICOMM.</obis:abstract>
+        <obis:ron_id></obis:ron_id>
+        <obis:created>2005-10-13 00:00:00-04</obis:created>
+        <obis:gcmd_id>microbis1</obis:gcmd_id>
+        <obis:resname>MICROBIS database</obis:resname>
+        <obis:provider_id>18</obis:provider_id>
+        <obis:resfullname>MICROBIS database (ICoMM)</obis:resfullname>
+        <obis:digirurl>http://icomm.mbl.edu/digir/DiGIR.php</obis:digirurl>
+        <obis:taxonscope>IEdA;IArCrMD;IArCrCi;IArCrCo;IAnP;IMoG;IMoB;ICt;ICnS;ICnH;MiD;MiEg;MiCs;MiB;MiP;MiCp;MiCl;MiZ;PrCh;PrSA;PrK;PrE;PrZ.</obis:taxonscope>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:datelastmodified>2009-10-01T15:37:02-04:00</obis:datelastmodified>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:longitude>-123.01564</obis:longitude>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:id>20244154</obis:id>
+    <obis:latitude>35.164188</obis:latitude>
+    <obis:position_id>869186</obis:position_id>
+    <obis:sname_id>252736</obis:sname_id>
+    <obis:basisofrecord></obis:basisofrecord>
+    <obis:datelastcached>2009-10-06 17:53:39</obis:datelastcached>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname252736">
+        <obis:snamestring>Gp21</obis:snamestring>
+        <obis:id_sname>252736</obis:id_sname>
+        <obis:remark></obis:remark>
+        <obis:sauthor></obis:sauthor>
+        <obis:tname>Acidobacteriaceae</obis:tname>
+        <obis:tauthor></obis:tauthor>
+        <obis:tname_id>737177</obis:tname_id>
+        <obis:accuracy></obis:accuracy>
+        <obis:concatenated>Bacteria|Acidobacteria|Acidobacteria|Acidobacteriales|Acidobacteriaceae|Gp21||||Gp21|</obis:concatenated>
+        <obis:lifestage></obis:lifestage>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:datecollected>2007-09-19 07:59:59.819999-03</obis:datecollected>
+    <obis:coordinateprecision></obis:coordinateprecision>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs16047896">
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:valid_id>482422</obis:valid_id>
+    <obis:datelastcached>2009-04-03 15:38:07</obis:datelastcached>
+    <obis:id>16047896</obis:id>
+    <obis:latitude>55.8815</obis:latitude>
+    <obis:datelastmodified>2005-04-22 00:00:00</obis:datelastmodified>
+    <obis:depth></obis:depth>
+    <obis:temperature></obis:temperature>
+    <obis:sname_id>30354</obis:sname_id>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname30354">
+        <obis:sauthor>(Abildgaard, 1789)</obis:sauthor>
+        <obis:tname_id>482422</obis:tname_id>
+        <obis:snamestring>Ophiothrix fragilis</obis:snamestring>
+        <obis:id_sname>30354</obis:id_sname>
+        <obis:tauthor>(Abildgaard, 1789)</obis:tauthor>
+        <obis:lifestage></obis:lifestage>
+        <obis:subSpeciesOf rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname252736"/>
+        <obis:concatenated>Animalia|Echinodermata|Stelleroidea|Ophiurida|Ophiothrichidae|Ophiothrix||fragilis||Ophiothrix fragilis|(Abildgaard, 1789)</obis:concatenated>
+        <obis:tname>Ophiothrix fragilis</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:accuracy></obis:accuracy>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:datecollected>1989-06-07 07:59:59.819999-03</obis:datecollected>
+    <obis:display>1</obis:display>
+    <obis:lifestage></obis:lifestage>
+    <obis:longitude>-5.199101</obis:longitude>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource68">
+        <obis:temporalscope>1954-2000</obis:temporalscope>
+        <obis:abstract></obis:abstract>
+        <obis:usage>No release restrictions</obis:usage>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:taxonscope>VMCD;VMPi;VB;VFA;VFE;VFC;ICe;IUAs;IH;IEdO;IEdA;IEdC;IEdE;IEdH;ICh;IEn;IBra;IBry;IPh;IArCrMD;IArCrME;IArCrMAm;IArCrMI;IArCrMTa;IArCrMC;IArCrMM;IArCrML;IArCrCi;IArCrCo;IArCrO;IArCrBp;IArChP;IAnH;IAnO;IAnP;IEu;IMoA;IMoP;IMoG;IMoB;IMoS;IMoCS;IMoCO;IMoCC;IS;IPr;INd;IGa;INt;ICt;ICnAHA;ICnAHS;ICnAOA;ICnAOG;ICnAOP;ICnS;ICnH;IPf;AnS;MaCl;MaP;MaR;MiX;MiCl;MiZ.</obis:taxonscope>
+        <obis:website>http://www.marbef.org/data/imis.php?module=dataset&amp;dasid=621</obis:website>
+        <obis:id_resource>68</obis:id_resource>
+        <obis:provider_id>13</obis:provider_id>
+        <obis:geographicscope>Latitude:  49.81 to   60.86; Longitude:  -8.57 to    1.69</obis:geographicscope>
+        <obis:digirurl>http://w2.vliz.be/digir/DiGIR.php</obis:digirurl>
+        <obis:digirname>nbn_ga000190</obis:digirname>
+        <obis:created>2005-12-01 00:00:00-05</obis:created>
+        <obis:resname>Marine Nature Conservation Review (MNCR) and associated benthic marine data held and managed by JNCC</obis:resname>
+        <obis:conceptualschema>http://www.iobis.org/obis</obis:conceptualschema>
+        <obis:resfullname>Marine Nature Conservation Review (MNCR) and associated benthic marine data held and managed by JNCC (EurOBIS)</obis:resfullname>
+        <obis:citation>Ostler, R., Marine Nature Conservation Review (MNCR) and associated benthic marine data held and managed by JNCC. EUROBIS, Joint Nature Conservation Committee, Centre for Ecology nd hydrology, 22 Nov 2005, Aberdeenshire, UK, Version: 1, DiGIR Provider, http://www.marbef.org</obis:citation>
+        <obis:ron_id>5</obis:ron_id>
+        <obis:acronym></obis:acronym>
+        <obis:gcmd_id>Eurobis_621</obis:gcmd_id>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:coordinateprecision>5000</obis:coordinateprecision>
+    <obis:position_id>1934537</obis:position_id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs19711992">
+    <obis:depth></obis:depth>
+    <obis:datelastcached>2009-10-06 14:13:18</obis:datelastcached>
+    <obis:basisofrecord></obis:basisofrecord>
+    <obis:sname_id>130479</obis:sname_id>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname130479">
+        <obis:tname>Clostridiales</obis:tname>
+        <obis:sauthor></obis:sauthor>
+        <obis:snamestring>Clostridiales</obis:snamestring>
+        <obis:concatenated>Bacteria|Firmicutes|Clostridia|Clostridiales||||||Clostridiales|</obis:concatenated>
+        <obis:id_sname>130479</obis:id_sname>
+        <obis:tauthor></obis:tauthor>
+        <obis:lifestage></obis:lifestage>
+        <obis:accuracy></obis:accuracy>
+        <obis:remark></obis:remark>
+        <obis:tname_id>742327</obis:tname_id>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource52"/>
+    <obis:datelastmodified>2009-10-01T15:30:40-04:00</obis:datelastmodified>
+    <obis:valid_id>742327</obis:valid_id>
+    <obis:position_id>1840482</obis:position_id>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:longitude>6.1424832</obis:longitude>
+    <obis:display>1</obis:display>
+    <obis:latitude>53.490833</obis:latitude>
+    <obis:temperature></obis:temperature>
+    <obis:id>19711992</obis:id>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:datecollected>2008-08-10 07:59:59.819999-03</obis:datecollected>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs9473288">
+    <obis:depthprecision></obis:depthprecision>
+    <obis:id>9473288</obis:id>
+    <obis:sname_id>20049</obis:sname_id>
+    <obis:valid_id>746851</obis:valid_id>
+    <obis:depth></obis:depth>
+    <obis:datelastcached>2006-06-26 17:59:09</obis:datelastcached>
+    <obis:dateprecision></obis:dateprecision>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource124">
+        <obis:acronym></obis:acronym>
+        <obis:abstract>Pangaea is an information system, operated as an Open Access library for georeferenced data from basic research on earth and environment. Scientific primary data are archived with related metainformation in a relational database and distributed via webservices following ISO standards. Data include a bibliographic citation and are persistently identified using a DOI. The system is hosted by the Alfred Wegener Institute for Polar and Marine Research (AWI), Bremerhaven and the Center for Marine Environmental Sciences (MARUM)], Bremen, Germany and used for marine research data by the World Data Center for Marine Environmental Sciences (WDC-MARE)</obis:abstract>
+        <obis:id_resource>124</obis:id_resource>
+        <obis:ron_id>5</obis:ron_id>
+        <obis:provider_id>13</obis:provider_id>
+        <obis:temporalscope>Could not be determined. See the GCMD metadata.</obis:temporalscope>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:geographicscope>Latitude: -77.01 to   87.53; Longitude:-179.40 to  179.82</obis:geographicscope>
+        <obis:digirname>Pangaea</obis:digirname>
+        <obis:resname>PANGAEA - Publishing Network for Geoscientific &amp; Environmental Data</obis:resname>
+        <obis:citation>PANGAEA - Publishing Network for Geoscientific and Environmental Data, doi:10.1594/PANGAEA</obis:citation>
+        <obis:resfullname>PANGAEA - Publishing Network for Geoscientific &amp; Environmental Data (EurOBIS)</obis:resfullname>
+        <obis:taxonscope>VB;PrSF.</obis:taxonscope>
+        <obis:created>2006-06-26 00:00:00-04</obis:created>
+        <obis:website>http://www.pangaea.de</obis:website>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:gcmd_id>scarmarbin_Pangaea</obis:gcmd_id>
+        <obis:usage>none - data are in Open Access; some data might be under moratorium and password protected</obis:usage>
+        <obis:digirurl>http://digir.pangaea.de/</obis:digirurl>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:position_id>436113</obis:position_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:datelastmodified>1999-11-30T00:00:00+01:00</obis:datelastmodified>
+    <obis:display>1</obis:display>
+    <obis:datecollected></obis:datecollected>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:longitude>43.783001</obis:longitude>
+    <obis:temperature></obis:temperature>
+    <obis:basisofrecord>D</obis:basisofrecord>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname20049">
+        <obis:tname>Globigerinoides tenellus</obis:tname>
+        <obis:concatenated>|||||||||Globigerinoides tenellus|</obis:concatenated>
+        <obis:tname_id>746851</obis:tname_id>
+        <obis:snamestring>Globigerinoides tenellus</obis:snamestring>
+        <obis:lifestage></obis:lifestage>
+        <obis:remark></obis:remark>
+        <obis:accuracy></obis:accuracy>
+        <obis:id_sname>20049</obis:id_sname>
+        <obis:sauthor></obis:sauthor>
+        <obis:tauthor>Parker</obis:tauthor>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:latitude>-28.43</obis:latitude>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs3147250">
+    <obis:id>3147250</obis:id>
+    <obis:sname_id>224509</obis:sname_id>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname224509">
+        <obis:tname>Galeus polli</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:accuracy></obis:accuracy>
+        <obis:snamestring>Galeus polli</obis:snamestring>
+        <obis:tauthor>Cadenat, 1959</obis:tauthor>
+        <obis:concatenated>Animalia|Chordata|Elasmobranchii|Carcharhiniformes|Scyliorhinidae|Galeus||polli||Galeus polli|Cadenat, 1959</obis:concatenated>
+        <obis:lifestage></obis:lifestage>
+        <obis:sauthor>Cadenat, 1959</obis:sauthor>
+        <obis:tname_id>628129</obis:tname_id>
+        <obis:id_sname>224509</obis:id_sname>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:valid_id>628129</obis:valid_id>
+    <obis:datecollected></obis:datecollected>
+    <obis:display>1</obis:display>
+    <obis:datelastcached>2009-03-16 15:55:41</obis:datelastcached>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:position_id>513184</obis:position_id>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:longitude>4.8013887</obis:longitude>
+    <obis:temperature></obis:temperature>
+    <obis:lifestage></obis:lifestage>
+    <obis:datelastmodified>2008-11-19T15:48:03:48:03Z</obis:datelastmodified>
+    <obis:depth></obis:depth>
+    <obis:latitude>5.9347224</obis:latitude>
+    <obis:dateprecision></obis:dateprecision>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource721">
+        <obis:created>2009-04-14 12:39:15-04</obis:created>
+        <obis:resname>Fishbase occurrences hosted by GBIF-Sweden</obis:resname>
+        <obis:acronym></obis:acronym>
+        <obis:digirurl>http://www.gbif.se/tapir/tapir.php/fishbase</obis:digirurl>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:geographicscope></obis:geographicscope>
+        <obis:provider_id>14</obis:provider_id>
+        <obis:usage>FishBase receives over 10 million hits from over 600,000 visitors per month. Users are mostly lay persons who enter the system via common names of fishes and look mostly at summary pages and photos. However, there is also considerable usage of specialist pages and tools, mostly from Universities, Government agencies, and NGOs.</obis:usage>
+        <obis:gcmd_id>OBIS.Fishbase</obis:gcmd_id>
+        <obis:website>www.fishbase.org</obis:website>
+        <obis:abstract>FishBase is a large information system with key information for all fishes of the world: summaries, photos, and maps plus detailed standardized data on population dynamics, reproduction, trophic ecology, morphology, physiology genetics and other topics. FishBase is supported and supervised by a consortium of currently 8 international institutes and organizations (see www.fishbase.org/home.htm). Data encoding and programming is done mostly by a group of specialists in the Philippines. However, there are also over 1000 partners all over the world who contribute photos and data and check entries for accuracy. FishBase is available for free in monthly online updates and also on CD ROM and DVDs for a modest fee.</obis:abstract>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:digirname>Fishbase_Occurrence</obis:digirname>
+        <obis:resfullname>Fishbase occurrences hosted by GBIF-Sweden (FishBase)</obis:resfullname>
+        <obis:ron_id></obis:ron_id>
+        <obis:citation>Froese, R. and D. Pauly. Editors. 200x. FishBase. World Wide Web electronic publication. www.fishbase.org, version (xx/200x).</obis:citation>
+        <obis:id_resource>721</obis:id_resource>
+        <obis:temporalscope></obis:temporalscope>
+        <obis:taxonscope></obis:taxonscope>
+      </obis:resource>
+    </obis:resource_id>
+  </obis:drs>
+  <gudi:thandu rdf:about="http://dal.ca#wassup">
+    <gudi:roomMate rdf:resource="http://dal.ca#haree"/>
+    <gudi:job>god knows</gudi:job>
+  </gudi:thandu>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs17904421">
+    <obis:sname_id>63352</obis:sname_id>
+    <obis:temperature>5.9000001</obis:temperature>
+    <obis:position_id>1124573</obis:position_id>
+    <obis:datelastmodified>2009-05-18TMountain Da:ylight Time</obis:datelastmodified>
+    <obis:longitude>-69.583336</obis:longitude>
+    <obis:valid_id>469903</obis:valid_id>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:display>1</obis:display>
+    <obis:depthprecision>3</obis:depthprecision>
+    <obis:depth>213</obis:depth>
+    <obis:id>17904421</obis:id>
+    <obis:dateprecision>00:00:00</obis:dateprecision>
+    <obis:datelastcached>2009-05-21 15:34:05</obis:datelastcached>
+    <obis:datecollected>1993-04-21 18:07:48-03</obis:datecollected>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:latitude>41.966667</obis:latitude>
+    <obis:lifestage></obis:lifestage>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname63352">
+        <obis:tname>Merluccius bilinearis</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:id_sname>63352</obis:id_sname>
+        <obis:tname_id>469903</obis:tname_id>
+        <obis:accuracy></obis:accuracy>
+        <obis:sauthor></obis:sauthor>
+        <obis:tauthor>(Mitchill, 1814)</obis:tauthor>
+        <obis:lifestage></obis:lifestage>
+        <obis:snamestring>Merluccius bilinearis</obis:snamestring>
+        <obis:concatenated>|||||||||Merluccius bilinearis|</obis:concatenated>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource1435">
+        <obis:provider_id>46</obis:provider_id>
+        <obis:acronym></obis:acronym>
+        <obis:website>http://www.nefsc.noaa.gov/nefsc/publications/classics</obis:website>
+        <obis:resfullname>Northeast Fisheries Science Center Bottom Trawl Survey Data (USOBIS)</obis:resfullname>
+        <obis:resname>Northeast Fisheries Science Center Bottom Trawl Survey Data</obis:resname>
+        <obis:id_resource>1435</obis:id_resource>
+        <obis:gcmd_id>NMFS_NFSC_Bottom_Trawl_Survey</obis:gcmd_id>
+        <obis:digirurl>http://obis-usa.colorado.edu/digir/DiGIR.php</obis:digirurl>
+        <obis:citation>NOAA’s National Marine Fisheries Service (NMFS) Northeast Fisheries Science Center (2005). Northeast Fisheries Science Center Bottom Trawl Survey Data. NOAA’s National Marine Fisheries Service (NMFS) Northeast Fisheries Science Center. Woods Hole, Massachusetts, United States of America.</obis:citation>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:temporalscope></obis:temporalscope>
+        <obis:created>2009-05-27 14:13:20-04</obis:created>
+        <obis:digirname>NEFSC</obis:digirname>
+        <obis:abstract>This is the Northeast Fisheries Science Center Bottom Trawl Survey database for Northwest Atlantic marine organisms. Survey cruises use a bottom trawl to sample randomly selected stations in an attempt to delineate the species composition, geographic distribution, and abundance of various resources. Fish and selected invertebrate species are identified. Weight, length, total catch numbers, age structures, maturity stages, sex determinations and food content are recorded or collected during the survey cruises. Associated oceanographic and meteorological data, salinity, conductivity, and temperature data are available for all stations. Ichthyoplankton and zooplankton data is available for a subset of the stations. Geographic coverage is from Cape Hatteras to the Gulf of Maine and from the coast to the slope water.</obis:abstract>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:geographicscope></obis:geographicscope>
+        <obis:taxonscope></obis:taxonscope>
+        <obis:ron_id>12</obis:ron_id>
+        <obis:usage></obis:usage>
+      </obis:resource>
+    </obis:resource_id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs7476391">
+    <obis:datelastcached>2009-02-09 14:01:32</obis:datelastcached>
+    <obis:depth></obis:depth>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:valid_id>760499</obis:valid_id>
+    <obis:coordinateprecision>1500</obis:coordinateprecision>
+    <obis:temperature></obis:temperature>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:datelastmodified>2005-05-18T13:27:00B</obis:datelastmodified>
+    <obis:position_id>414377</obis:position_id>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource604">
+        <obis:taxonscope></obis:taxonscope>
+        <obis:abstract>The South African Bird Ringing Unit (SAFRING) administers bird ringing in southern Africa, supplying rings, ringing equipment and services to volunteer and professional ringers in South Africa and neighbouring countries. All ringing records are curated by SAFRING, which is an essential arm of the Animal Demography Unit. Contact is maintained by the SAFRING Project Coordinator with all ringers (banders in North American or Australian terminology). The Bird Ringing Scheme in South Africa was initiated in 1948, so 1998 saw the 50th anniversary of the scheme. During this period over 1.7 million birds of 852 species were ringed. There have been a total of 16 800 ring recoveries since the inception of the scheme. This gives an overall recovery rate for rings in southern Africa of marginally less than 1%, averaged across all species. This probability varies enormously across species. It currently contains 164366 records.</obis:abstract>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:usage>Acknowledge the use of specific records from contributing databases in the form appearing in the 'Citation' field thereof (if any); and acknowledge the use of the OBIS facility. For information purposes, email to obissupport@marine.rutgers.edu the full citation of any publication made (printed or electronic) that cites OBIS or any constituent part. Recognize the limitations of data in OBIS see http://www.iobis.org/data/policy/disclaimer for details.</obis:usage>
+        <obis:provider_id>1</obis:provider_id>
+        <obis:website></obis:website>
+        <obis:temporalscope></obis:temporalscope>
+        <obis:resfullname>Animal Demography Unit - South African Bird Ringing Unit (SAFRING) (AfrOBIS)</obis:resfullname>
+        <obis:gcmd_id>adu_safring</obis:gcmd_id>
+        <obis:acronym></obis:acronym>
+        <obis:geographicscope></obis:geographicscope>
+        <obis:resname>Animal Demography Unit - South African Bird Ringing Unit (SAFRING)</obis:resname>
+        <obis:id_resource>604</obis:id_resource>
+        <obis:digirurl>http://fred.csir.co.za:8000/digir/DiGIR.php</obis:digirurl>
+        <obis:ron_id>2</obis:ron_id>
+        <obis:created>2009-02-10 11:29:26-05</obis:created>
+        <obis:citation>Animal Demography Unit - South African Bird Ringing Unit (SAFRING)</obis:citation>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:digirname>ADU SAFRING</obis:digirname>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:display>1</obis:display>
+    <obis:latitude>-33.049999</obis:latitude>
+    <obis:sname_id>149849</obis:sname_id>
+    <obis:longitude>17.9167</obis:longitude>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname149849">
+        <obis:accuracy></obis:accuracy>
+        <obis:concatenated>Animalia|Chordata|Aves|Ciconiiformes|Sulidae|||||Morus capensis|</obis:concatenated>
+        <obis:snamestring>Morus capensis</obis:snamestring>
+        <obis:tauthor>(Lichtenstein, 1823)</obis:tauthor>
+        <obis:lifestage></obis:lifestage>
+        <obis:tname>Morus capensis</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:id_sname>149849</obis:id_sname>
+        <obis:tname_id>473279</obis:tname_id>
+        <obis:sauthor></obis:sauthor>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:id>7476391</obis:id>
+    <obis:datecollected>1990-02-05 07:59:59.819999-04</obis:datecollected>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs7789126">
+    <obis:sname_id>210026</obis:sname_id>
+    <obis:datecollected>1985-08-12 07:59:59.819999-03</obis:datecollected>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname210026">
+        <obis:id_sname>210026</obis:id_sname>
+        <obis:accuracy></obis:accuracy>
+        <obis:tauthor>G.O. Sars, 1903</obis:tauthor>
+        <obis:tname_id>740483</obis:tname_id>
+        <obis:concatenated>Animalia|Arthropoda|Maxillopoda|Calanoida||||||Order calanoida|</obis:concatenated>
+        <obis:lifestage></obis:lifestage>
+        <obis:tname>Calanoida</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:sauthor></obis:sauthor>
+        <obis:snamestring>Order calanoida</obis:snamestring>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:depth>13</obis:depth>
+    <obis:depthprecision>0</obis:depthprecision>
+    <obis:display>1</obis:display>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:temperature></obis:temperature>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource494">
+        <obis:taxonscope></obis:taxonscope>
+        <obis:digirurl>http://ak.aoos.org:9000/digir/DiGIR.php</obis:digirurl>
+        <obis:acronym></obis:acronym>
+        <obis:website>http://www.sfos.uaf.edu/research/arcdiv/</obis:website>
+        <obis:citation>Hopky, G.E. Lawrence, M.J. and Chiperzak, D.B.; Central and Arctic Region, Department of Fisheries and Oceans, Winnipeg, Manitoba R3T 2N6. (1994) NOGAP B2; Zooplankton Data from the Canadian Beaufort Sea Shelf, 1984 and 1985. Canadian Data Report of Fisheries and Aquatic Sciences: 922. &lt;http://science.nature.nps.gov/nrdata&gt;</obis:citation>
+        <obis:digirname>BeaufortSeaZooplankton_NOGAP_1984-1985</obis:digirname>
+        <obis:provider_id>2</obis:provider_id>
+        <obis:ron_id></obis:ron_id>
+        <obis:geographicscope></obis:geographicscope>
+        <obis:temporalscope></obis:temporalscope>
+        <obis:usage>These data present a snapshot in time, but are representative for the location and depth where collected. Identification is done where applicable and known; different taxonomies might result into different species names. These data cannot be redistributed to third parties.</obis:usage>
+        <obis:resfullname>ZooplanktonBeaufortSeaNOGAP1 (ArcOD/AOOS)</obis:resfullname>
+        <obis:resname>ZooplanktonBeaufortSeaNOGAP1</obis:resname>
+        <obis:abstract>o assess species composition, abundance, distribution and biomass of zooplankton across locations of the Canadian Beaufort Sea Shelf.</obis:abstract>
+        <obis:fproject_id>1</obis:fproject_id>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:created>2008-08-07 16:41:42-04</obis:created>
+        <obis:gcmd_id></obis:gcmd_id>
+        <obis:id_resource>494</obis:id_resource>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:id>7789126</obis:id>
+    <obis:position_id>2157928</obis:position_id>
+    <obis:longitude>-136.62</obis:longitude>
+    <obis:datelastcached></obis:datelastcached>
+    <obis:valid_id>740483</obis:valid_id>
+    <obis:basisofrecord>PreservedSpecimen</obis:basisofrecord>
+    <obis:latitude>69.660004</obis:latitude>
+    <obis:lifestage>nauplius &lt;200 um</obis:lifestage>
+    <obis:datelastmodified>2008-05-18T03:22:07Z</obis:datelastmodified>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs9604958">
+    <obis:valid_id>679042</obis:valid_id>
+    <obis:sname_id>328482</obis:sname_id>
+    <obis:datelastcached>2006-07-07 02:28:55</obis:datelastcached>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource125">
+        <obis:digirurl>http://fred.csir.co.za:8000/digir/DiGIR.php</obis:digirurl>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:gcmd_id>mcm_copepods</obis:gcmd_id>
+        <obis:id_resource>125</obis:id_resource>
+        <obis:geographicscope>Latitude: -36.94 to  -26.75; Longitude:  14.89 to   26.90</obis:geographicscope>
+        <obis:resfullname>Marine and Coastal Management - Copepod Surveys (AfrOBIS)</obis:resfullname>
+        <obis:ron_id>2</obis:ron_id>
+        <obis:acronym></obis:acronym>
+        <obis:resname>Marine and Coastal Management - Copepod Surveys</obis:resname>
+        <obis:created>2006-07-07 00:00:00-04</obis:created>
+        <obis:citation>Marine and Coastal Management - Copepod Surveys</obis:citation>
+        <obis:provider_id>1</obis:provider_id>
+        <obis:website>http://www.mcm-deat.gov.za/</obis:website>
+        <obis:abstract>Marine and Coastal Management (MCM) is one of four branches of the Department of Environmental Affairs and Tourism. It is the regulatory authority responsible for managing all marine and coastal activities. The copepod data set has been collected from cruises around the South African Coast, and currently contains 91705 records of 9 families.</obis:abstract>
+        <obis:usage>Acknowledge the use of specific records from contributing databases in the form appearing in the 'Citation' field thereof (if any); and acknowledge the use of the OBIS facility. For information purposes, email to obissupport@marine.rutgers.edu the full citation of any publication made (printed or electronic) that cites OBIS or any constituent part. Recognize the limitations of data in OBIS see http://www.iobis.org/data/policy/disclaimer for details.</obis:usage>
+        <obis:digirname>MCM Copepod</obis:digirname>
+        <obis:taxonscope>IArCrCo.</obis:taxonscope>
+        <obis:temporalscope>1988-2000</obis:temporalscope>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:latitude>-32.202999</obis:latitude>
+    <obis:longitude>18.122499</obis:longitude>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:depth>46.200001</obis:depth>
+    <obis:lifestage></obis:lifestage>
+    <obis:depthprecision>46.200001</obis:depthprecision>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname328482">
+        <obis:remark></obis:remark>
+        <obis:sauthor>Kr�yer, 1849</obis:sauthor>
+        <obis:id_sname>328482</obis:id_sname>
+        <obis:concatenated>Animalia|Arthropoda|Maxillopoda|Calanoida|Calanidae|Calanoides||carinatus||Calanoides carinatus|Kr�yer, 1849</obis:concatenated>
+        <obis:tname>Calanoides carinatus</obis:tname>
+        <obis:accuracy></obis:accuracy>
+        <obis:snamestring>Calanoides carinatus</obis:snamestring>
+        <obis:tauthor>(Krøyer, 1849)</obis:tauthor>
+        <obis:lifestage></obis:lifestage>
+        <obis:tname_id>679042</obis:tname_id>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:id>9604958</obis:id>
+    <obis:datelastmodified>2006-05-05</obis:datelastmodified>
+    <obis:position_id>420371</obis:position_id>
+    <obis:display>1</obis:display>
+    <obis:datecollected>1999-05-15 13:55:00.119999-03</obis:datecollected>
+    <obis:basisofrecord></obis:basisofrecord>
+    <obis:dateprecision>00:00:00</obis:dateprecision>
+    <obis:temperature></obis:temperature>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs14118215">
+    <obis:sname_id>265988</obis:sname_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:position_id>456954</obis:position_id>
+    <obis:display></obis:display>
+    <obis:latitude>-20.379999</obis:latitude>
+    <obis:dateprecision></obis:dateprecision>
+    <obis:temperature></obis:temperature>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource264">
+        <obis:usage>These data have to be cited as Richer de Forges/IRD. Acknowledge the use of specific records from contributing databases in the form appearing in the 'Citation' field thereof (if any); and acknowledge the use of the OBIS facility. For information purposes, email to obissupport@marine.rutgers.edu the full citation of any publication made (printed or electronic) that cites OBIS or any constituent part. Recognize the limitations of data in OBIS</obis:usage>
+        <obis:website>www.tropicaldeepseabenthos.org</obis:website>
+        <obis:digirname>New_Caledonia</obis:digirname>
+        <obis:abstract>The dataset is the result of a sampling of the western and central Pacific benthic fauna during the last 30 years in the MUSORSTOM program. The taxonomic information is coming from the taxonomic papers published. The locality mentioned for each species were checked by the author of the papers.</obis:abstract>
+        <obis:ron_id></obis:ron_id>
+        <obis:provider_id>25</obis:provider_id>
+        <obis:gcmd_id>New_Caledonia</obis:gcmd_id>
+        <obis:temporalscope></obis:temporalscope>
+        <obis:id_resource>264</obis:id_resource>
+        <obis:resfullname>Benthic species from the tropical Pacific surrounding New Caledonia  (New_Caledonia)</obis:resfullname>
+        <obis:created>2008-06-30 15:03:29-04</obis:created>
+        <obis:taxonscope></obis:taxonscope>
+        <obis:citation>Bertrand RICHER DE FORGES (IRD) &amp; Philippe BOUCHET (MNHN). 1998. Benthic species from the tropical Pacific. IRD-Noumea</obis:citation>
+        <obis:acronym>New_Caledonia</obis:acronym>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:conceptualschema>OBIS Scema Version 1.1</obis:conceptualschema>
+        <obis:resname>Benthic species from the tropical Pacific surrounding New Caledonia</obis:resname>
+        <obis:digirurl>www.tropicaldeepseabenthos.org</obis:digirurl>
+        <obis:geographicscope></obis:geographicscope>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:id>14118215</obis:id>
+    <obis:valid_id>608720</obis:valid_id>
+    <obis:longitude>166.33</obis:longitude>
+    <obis:datelastcached></obis:datelastcached>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname265988">
+        <obis:tauthor>Vilvens, 2007</obis:tauthor>
+        <obis:accuracy></obis:accuracy>
+        <obis:lifestage></obis:lifestage>
+        <obis:id_sname>265988</obis:id_sname>
+        <obis:sauthor>Vilvens, 2007</obis:sauthor>
+        <obis:tname_id>608720</obis:tname_id>
+        <obis:tname>Calliotropis pistis</obis:tname>
+        <obis:concatenated>|||Gastropoda|CHILODONTIDAE|Calliotropis||pistis||Calliotropis pistis|Vilvens, 2007</obis:concatenated>
+        <obis:remark></obis:remark>
+        <obis:snamestring>Calliotropis pistis</obis:snamestring>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:depthprecision>0</obis:depthprecision>
+    <obis:datelastmodified></obis:datelastmodified>
+    <obis:depth>780</obis:depth>
+    <obis:basisofrecord></obis:basisofrecord>
+    <obis:datecollected></obis:datecollected>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs7675935">
+    <obis:datecollected>1998-09-01 07:59:59.819999-03</obis:datecollected>
+    <obis:display>1</obis:display>
+    <obis:temperature></obis:temperature>
+    <obis:datelastmodified>2005-04-22 00:00:00</obis:datelastmodified>
+    <obis:latitude>52.93644</obis:latitude>
+    <obis:valid_id>616102</obis:valid_id>
+    <obis:longitude>0.230489</obis:longitude>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource68"/>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:coordinateprecision>5000</obis:coordinateprecision>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:position_id>1825893</obis:position_id>
+    <obis:sname_id>134294</obis:sname_id>
+    <obis:id>7675935</obis:id>
+    <obis:datelastcached>2009-04-03 13:44:05</obis:datelastcached>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname134294">
+        <obis:remark></obis:remark>
+        <obis:accuracy></obis:accuracy>
+        <obis:lifestage></obis:lifestage>
+        <obis:tauthor>Milne-Edwards, 1840</obis:tauthor>
+        <obis:concatenated>Animalia|Arthropoda|Maxillopoda|||||||Copepoda|</obis:concatenated>
+        <obis:sauthor></obis:sauthor>
+        <obis:id_sname>134294</obis:id_sname>
+        <obis:tname>Copepoda</obis:tname>
+        <obis:snamestring>Copepoda</obis:snamestring>
+        <obis:tname_id>616102</obis:tname_id>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:depth></obis:depth>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs6544197">
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource67">
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:website>http://www.afsc.noaa.gov/refm/observers/database.htm</obis:website>
+        <obis:gcmd_id>AK_Groundfish</obis:gcmd_id>
+        <obis:taxonscope>VB;VFA;VFE;VFC;IUAs;IEdO;IArCrMD;IMoG;IMoCS;ICnAOG;ICnAOP.</obis:taxonscope>
+        <obis:digirurl>http://iobis.marine.rutgers.edu/digir/DiGIR.php</obis:digirurl>
+        <obis:digirname>AK_observer</obis:digirname>
+        <obis:acronym></obis:acronym>
+        <obis:geographicscope>Latitude:    .00 to   61.72; Longitude:-179.83 to  179.83</obis:geographicscope>
+        <obis:resfullname>North Pacific Groundfish Observer (North Pacific Research Board)</obis:resfullname>
+        <obis:abstract>North Pacific Groundfish Observer Program: Database Description The Observer Program database consists of fish, invertebrate, and marine mammal observations collected by fishery biologists while deployed on board commercial fishing vessels or at shoreside processing plants participating in the Bering Sea and Gulf of Alaska groundfish fisheries. This database covers observations from 1993-2004. The specific data components collected are outlined in the Groundfish Observer Manual. Once received by NOAA Fisheries, these data are extensively checked for quality. Each record represents the summary of all the observations made for a given taxa in a given year from each 20km by 20km grid square; counts and weights are statistical estimates.</obis:abstract>
+        <obis:citation>***Not yet provided***</obis:citation>
+        <obis:id_resource>67</obis:id_resource>
+        <obis:resname>North Pacific Groundfish Observer</obis:resname>
+        <obis:ron_id>12</obis:ron_id>
+        <obis:provider_id>26</obis:provider_id>
+        <obis:temporalscope>1993-2004</obis:temporalscope>
+        <obis:usage>None</obis:usage>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:created>2005-11-23 00:00:00-05</obis:created>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:datelastmodified>2005-08-28</obis:datelastmodified>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:display>1</obis:display>
+    <obis:coordinateprecision>15000</obis:coordinateprecision>
+    <obis:longitude>-164.5</obis:longitude>
+    <obis:position_id>1929464</obis:position_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:dateprecision>182 days 11:59:59.819999</obis:dateprecision>
+    <obis:datecollected>2002-07-02 07:59:59.819999-03</obis:datecollected>
+    <obis:sname_id>217313</obis:sname_id>
+    <obis:id>6544197</obis:id>
+    <obis:valid_id>461448</obis:valid_id>
+    <obis:latitude>55.759998</obis:latitude>
+    <obis:temperature></obis:temperature>
+    <obis:depth></obis:depth>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname217313">
+        <obis:tname_id>461448</obis:tname_id>
+        <obis:id_sname>217313</obis:id_sname>
+        <obis:sauthor></obis:sauthor>
+        <obis:tauthor>(Ayres, 1855)</obis:tauthor>
+        <obis:tname>Lepidopsetta bilineata</obis:tname>
+        <obis:accuracy></obis:accuracy>
+        <obis:remark></obis:remark>
+        <obis:snamestring>Lepidopsetta bilineata</obis:snamestring>
+        <obis:concatenated>Animalia|||||Lepidopsetta||bilineata||Lepidopsetta bilineata|</obis:concatenated>
+        <obis:lifestage></obis:lifestage>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:datelastcached>2005-11-16 18:57:14</obis:datelastcached>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs6727541">
+    <obis:depth></obis:depth>
+    <obis:dateprecision>182 days 11:59:59.819999</obis:dateprecision>
+    <obis:display>1</obis:display>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource67"/>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname199769">
+        <obis:tname>Theragra chalcogramma</obis:tname>
+        <obis:id_sname>199769</obis:id_sname>
+        <obis:lifestage></obis:lifestage>
+        <obis:tauthor>(Pallas, 1814)</obis:tauthor>
+        <obis:sauthor></obis:sauthor>
+        <obis:remark></obis:remark>
+        <obis:tname_id>673911</obis:tname_id>
+        <obis:accuracy></obis:accuracy>
+        <obis:concatenated>Animalia|||||Theragra||chalcogramma||Theragra chalcogramma|</obis:concatenated>
+        <obis:snamestring>Theragra chalcogramma</obis:snamestring>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:temperature></obis:temperature>
+    <obis:valid_id>673911</obis:valid_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:latitude>56.279999</obis:latitude>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:datecollected>1993-07-02 07:59:59.819999-03</obis:datecollected>
+    <obis:position_id>1949980</obis:position_id>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:longitude>-162.5</obis:longitude>
+    <obis:coordinateprecision>15000</obis:coordinateprecision>
+    <obis:datelastmodified>2005-08-28</obis:datelastmodified>
+    <obis:sname_id>199769</obis:sname_id>
+    <obis:id>6727541</obis:id>
+    <obis:datelastcached>2005-11-16 19:47:56</obis:datelastcached>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs454362">
+    <obis:sname_id>223490</obis:sname_id>
+    <obis:datecollected>2002-05-22 07:59:59.819999-03</obis:datecollected>
+    <obis:position_id>1926705</obis:position_id>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname223490">
+        <obis:concatenated>PLANTAE||BACILLARIOPHYCAE|CENTRALES|RHIZOSOLENIACEAE|Rhizosolenia||alata||Rhizosolenia alata alata|</obis:concatenated>
+        <obis:tauthor></obis:tauthor>
+        <obis:accuracy></obis:accuracy>
+        <obis:remark></obis:remark>
+        <obis:sauthor></obis:sauthor>
+        <obis:snamestring>Rhizosolenia alata alata</obis:snamestring>
+        <obis:lifestage></obis:lifestage>
+        <obis:tname>Rhizosolenia alata var. alata</obis:tname>
+        <obis:id_sname>223490</obis:id_sname>
+        <obis:tname_id>758016</obis:tname_id>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:datelastmodified>2004-06-10</obis:datelastmodified>
+    <obis:depth>7.5</obis:depth>
+    <obis:display>1</obis:display>
+    <obis:lifestage></obis:lifestage>
+    <obis:id>454362</obis:id>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource20">
+        <obis:website>http://www.sahfos.org</obis:website>
+        <obis:gcmd_id>OBIS.SAHFOS</obis:gcmd_id>
+        <obis:usage>Restrictions on use of the data retrieved from this resource.</obis:usage>
+        <obis:acronym></obis:acronym>
+        <obis:created></obis:created>
+        <obis:resname>Continuous Plankton Recorder database</obis:resname>
+        <obis:citation>Continuous Plankton Recorder (CPR) data from the Sir Alister Hardy Foundation for Ocean Science (SAHFOS). Avaiable from http://iobis.org/ [Accessed DATE] (citation as instructed)</obis:citation>
+        <obis:digirname>SAHFOS_CPR_PHYTOPLANKTON</obis:digirname>
+        <obis:digirurl>http://192.171.163.165/digir/www/DiGIR.php</obis:digirurl>
+        <obis:temporalscope>1946-2003</obis:temporalscope>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:id_resource>20</obis:id_resource>
+        <obis:taxonscope>IArCrCi;IArCrCo;IMoG;MaR;MiD;MiCs;MiB;MiP;MiCl;PrCi;BC.</obis:taxonscope>
+        <obis:ron_id></obis:ron_id>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:provider_id>42</obis:provider_id>
+        <obis:geographicscope>Latitude:   3.87 to   67.30; Longitude:-179.75 to  178.97</obis:geographicscope>
+        <obis:resfullname>SAHFOS_CPR_PHYTOPLANKTON (The Sir Alister Hardy Foundation)</obis:resfullname>
+        <obis:abstract>The Sir Alister Hardy Foundation for Ocean Science (SAHFOS) is an international charity registered in the UK, that operates the Continuous Plankton Recorder (CPR) survey. The Foundation has been collecting data from the North Atlantic and the North Sea on biogeography and ecology of plankton since 1931.</obis:abstract>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:longitude>5.4236317</obis:longitude>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:datelastcached>2004-06-23 19:20:18</obis:datelastcached>
+    <obis:depthprecision>2.5</obis:depthprecision>
+    <obis:latitude>55.703354</obis:latitude>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:temperature></obis:temperature>
+    <obis:valid_id>765770</obis:valid_id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs11042345">
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:datelastmodified>2006-11-07</obis:datelastmodified>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:valid_id>519481</obis:valid_id>
+    <obis:position_id>411978</obis:position_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:depth></obis:depth>
+    <obis:datelastcached>2006-11-18 01:27:16</obis:datelastcached>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname86508">
+        <obis:tname_id>519481</obis:tname_id>
+        <obis:accuracy></obis:accuracy>
+        <obis:tname>Thunnus alalunga</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:sauthor></obis:sauthor>
+        <obis:tauthor>(Bonnaterre, 1788)</obis:tauthor>
+        <obis:concatenated>Animalia|Vertebrata|Teleostei|Perciformes|Scombridae|Thunnus||alalunga||Thunnus alalunga|</obis:concatenated>
+        <obis:snamestring>Thunnus alalunga</obis:snamestring>
+        <obis:lifestage></obis:lifestage>
+        <obis:id_sname>86508</obis:id_sname>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:temperature></obis:temperature>
+    <obis:latitude>-33.425598</obis:latitude>
+    <obis:display>1</obis:display>
+    <obis:id>11042345</obis:id>
+    <obis:sname_id>86508</obis:sname_id>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource168"/>
+    <obis:longitude>18.0886</obis:longitude>
+    <obis:datecollected>1992-04-04 06:59:59.819999-04</obis:datecollected>
+    <obis:depthprecision></obis:depthprecision>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs1296825">
+    <obis:valid_id>613840</obis:valid_id>
+    <obis:datecollected>1954-08-13 07:59:59.819999-03</obis:datecollected>
+    <obis:id>1296825</obis:id>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:datelastcached>2004-07-07 21:24:13</obis:datelastcached>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname39513">
+        <obis:tauthor>Latreille, 1829</obis:tauthor>
+        <obis:concatenated>ANIMALIA|ARTHROPODA||CLADOCERA||||||Cladocera total|</obis:concatenated>
+        <obis:tname_id>613840</obis:tname_id>
+        <obis:id_sname>39513</obis:id_sname>
+        <obis:sauthor></obis:sauthor>
+        <obis:lifestage></obis:lifestage>
+        <obis:snamestring>Cladocera total</obis:snamestring>
+        <obis:accuracy></obis:accuracy>
+        <obis:tname>Cladocera</obis:tname>
+        <obis:remark>total</obis:remark>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:datelastmodified>2004-06-10</obis:datelastmodified>
+    <obis:resource_id>
+      <obis:resource rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource19">
+        <obis:abstract>The Sir Alister Hardy Foundation for Ocean Science (SAHFOS) is an international charity registered in the UK, that operates the Continuous Plankton Recorder (CPR) survey. The Foundation has been collecting data from the North Atlantic and the North Sea on biogeography and ecology of plankton since 1931.</obis:abstract>
+        <obis:conceptualschema>http://digir.net/schema/conceptual/darwin/2003/1.0</obis:conceptualschema>
+        <obis:citation>Continuous Plankton Recorder (CPR) data from the Sir Alister Hardy Foundation for Ocean Science (SAHFOS). Avaiable from http://iobis.org/ [Accessed DATE] (citation as instructed)</obis:citation>
+        <obis:gcmd_id>OBIS.SAHFOS</obis:gcmd_id>
+        <obis:ron_id></obis:ron_id>
+        <obis:temporalscope>1946-2003</obis:temporalscope>
+        <obis:resname>Continuous Plankton Recorder database</obis:resname>
+        <obis:provider_id>42</obis:provider_id>
+        <obis:digirurl>http://192.171.163.165/digir/www/DiGIR.php</obis:digirurl>
+        <obis:fproject_id></obis:fproject_id>
+        <obis:geographicscope>Latitude:   3.87 to   68.29; Longitude:-179.75 to  178.97</obis:geographicscope>
+        <obis:usage>Restrictions on use of the data retrieved from this resource.</obis:usage>
+        <obis:created></obis:created>
+        <obis:id_resource>19</obis:id_resource>
+        <obis:acronym></obis:acronym>
+        <obis:website>http://www.sahfos.org</obis:website>
+        <obis:resfullname>SAHFOS_CPR_ZOOPLANKTON (The Sir Alister Hardy Foundation)</obis:resfullname>
+        <obis:taxonscope>ICe;IUT;IArCrMD;IArCrCi;IArCrCo;IArCrBp;IAnP;IMoG;MiD.</obis:taxonscope>
+        <obis:digirname>SAHFOS_CPR_ZOOPLANKTON</obis:digirname>
+      </obis:resource>
+    </obis:resource_id>
+    <obis:position_id>1954524</obis:position_id>
+    <obis:display>1</obis:display>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:depthprecision>2.5</obis:depthprecision>
+    <obis:sname_id>39513</obis:sname_id>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:longitude>-0.58166665</obis:longitude>
+    <obis:temperature></obis:temperature>
+    <obis:lifestage></obis:lifestage>
+    <obis:latitude>56.403332</obis:latitude>
+    <obis:depth>7.5</obis:depth>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs488198">
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:position_id>2096000</obis:position_id>
+    <obis:valid_id>503961</obis:valid_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:temperature></obis:temperature>
+    <obis:depthprecision>2.5</obis:depthprecision>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:datelastcached>2004-06-23 20:11:44</obis:datelastcached>
+    <obis:longitude>-26.485001</obis:longitude>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:datecollected>1956-05-11 07:59:59.819999-03</obis:datecollected>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname37419">
+        <obis:remark></obis:remark>
+        <obis:snamestring>Rhizosolenia imbrica. shrubsolei</obis:snamestring>
+        <obis:id_sname>37419</obis:id_sname>
+        <obis:tname>Rhizosolenia imbricata var. shrubsolei</obis:tname>
+        <obis:concatenated>PLANTAE||BACILLARIOPHYCAE|CENTRALES|RHIZOSOLENIACEAE|Rhizosolenia||imbricata||Rhizosolenia imbrica. shrubsolei|</obis:concatenated>
+        <obis:accuracy></obis:accuracy>
+        <obis:subSpeciesOf rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname252736"/>
+        <obis:tauthor>(P.T. Cleve) Schröder, 1906</obis:tauthor>
+        <obis:tname_id>577417</obis:tname_id>
+        <obis:lifestage></obis:lifestage>
+        <obis:sauthor></obis:sauthor>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:display>1</obis:display>
+    <obis:sname_id>37419</obis:sname_id>
+    <obis:depth>7.5</obis:depth>
+    <obis:datelastmodified>2004-06-10</obis:datelastmodified>
+    <obis:latitude>60.586666</obis:latitude>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource20"/>
+    <obis:id>488198</obis:id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs797954">
+    <obis:datelastcached>2004-07-08 19:00:33</obis:datelastcached>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource19"/>
+    <obis:datelastmodified>2004-06-10</obis:datelastmodified>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname189818">
+        <obis:remark></obis:remark>
+        <obis:tname_id>681117</obis:tname_id>
+        <obis:concatenated>ANIMALIA|ARTHROPODA|MAXILLOPODA|CALANOIDA|CALANIDAE|Calanus||finmarchicus||Calanus fin. finmarchicus|</obis:concatenated>
+        <obis:id_sname>189818</obis:id_sname>
+        <obis:tauthor>(Gunner, 1765)</obis:tauthor>
+        <obis:snamestring>Calanus fin. finmarchicus</obis:snamestring>
+        <obis:accuracy></obis:accuracy>
+        <obis:lifestage></obis:lifestage>
+        <obis:tname>Calanus finmarchicus finmarchicus</obis:tname>
+        <obis:sauthor></obis:sauthor>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:datecollected>1962-07-29 07:59:59.819999-03</obis:datecollected>
+    <obis:temperature></obis:temperature>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:depth>7.5</obis:depth>
+    <obis:longitude>-47.075001</obis:longitude>
+    <obis:position_id>1918382</obis:position_id>
+    <obis:latitude>55.541668</obis:latitude>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:sname_id>189818</obis:sname_id>
+    <obis:valid_id>681117</obis:valid_id>
+    <obis:depthprecision>2.5</obis:depthprecision>
+    <obis:id>797954</obis:id>
+    <obis:display>1</obis:display>
+    <obis:lifestage></obis:lifestage>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs10353574">
+    <obis:depth></obis:depth>
+    <obis:datelastmodified>2006-11-07</obis:datelastmodified>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:datecollected>1987-04-18 07:59:59.819999-03</obis:datecollected>
+    <obis:valid_id>469899</obis:valid_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:sname_id>259694</obis:sname_id>
+    <obis:display>1</obis:display>
+    <obis:latitude>-33.603401</obis:latitude>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource168"/>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname259694">
+        <obis:tname>Merluccius</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:tname_id>469899</obis:tname_id>
+        <obis:tauthor>Rafinesque, 1810</obis:tauthor>
+        <obis:lifestage></obis:lifestage>
+        <obis:concatenated>Animalia|Vertebrata|Teleostei|Gadiformes|Merlucciidae|Merluccius||||Merluccius|</obis:concatenated>
+        <obis:sauthor></obis:sauthor>
+        <obis:id_sname>259694</obis:id_sname>
+        <obis:accuracy></obis:accuracy>
+        <obis:snamestring>Merluccius</obis:snamestring>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:datelastcached>2006-11-11 02:43:53</obis:datelastcached>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:temperature></obis:temperature>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:position_id>410528</obis:position_id>
+    <obis:longitude>26.9007</obis:longitude>
+    <obis:id>10353574</obis:id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs6413374">
+    <obis:coordinateprecision>15000</obis:coordinateprecision>
+    <obis:depth></obis:depth>
+    <obis:latitude>58.060001</obis:latitude>
+    <obis:display>1</obis:display>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname177687">
+        <obis:tname>Chionoecetes opilio</obis:tname>
+        <obis:concatenated>Animalia|||||Chionoecetes||opilio||Chionoecetes opilio|</obis:concatenated>
+        <obis:tname_id>421206</obis:tname_id>
+        <obis:snamestring>Chionoecetes opilio</obis:snamestring>
+        <obis:sauthor></obis:sauthor>
+        <obis:subSpeciesOf rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname252736"/>
+        <obis:id_sname>177687</obis:id_sname>
+        <obis:tauthor>(Fabricius, 1788)</obis:tauthor>
+        <obis:remark></obis:remark>
+        <obis:lifestage></obis:lifestage>
+        <obis:accuracy></obis:accuracy>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:datelastcached>2005-11-16 18:21:31</obis:datelastcached>
+    <obis:sname_id>177687</obis:sname_id>
+    <obis:temperature></obis:temperature>
+    <obis:longitude>-173.83</obis:longitude>
+    <obis:valid_id>421206</obis:valid_id>
+    <obis:position_id>2019288</obis:position_id>
+    <obis:dateprecision>182 days 23:59:59.819999</obis:dateprecision>
+    <obis:id>6413374</obis:id>
+    <obis:datecollected>1996-07-01 19:59:59.819999-03</obis:datecollected>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:datelastmodified>2005-08-28</obis:datelastmodified>
+    <obis:lifestage></obis:lifestage>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource67"/>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs12316602">
+    <obis:longitude>20.0469</obis:longitude>
+    <obis:display>1</obis:display>
+    <obis:lifestage></obis:lifestage>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname97358">
+        <obis:tname_id>408032</obis:tname_id>
+        <obis:accuracy></obis:accuracy>
+        <obis:lifestage></obis:lifestage>
+        <obis:concatenated>Animalia|Vertebrata|Teleostei|Perciformes|Sciaenidae|Atractoscion||aequidens||Atractoscion aequidens|</obis:concatenated>
+        <obis:remark></obis:remark>
+        <obis:sauthor></obis:sauthor>
+        <obis:snamestring>Atractoscion aequidens</obis:snamestring>
+        <obis:id_sname>97358</obis:id_sname>
+        <obis:tname>Atractoscion aequidens</obis:tname>
+        <obis:tauthor>(Cuvier, 1830)</obis:tauthor>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:depth></obis:depth>
+    <obis:id>12316602</obis:id>
+    <obis:datelastmodified>2006-11-07</obis:datelastmodified>
+    <obis:datecollected>1996-12-13 07:59:59.819999-04</obis:datecollected>
+    <obis:datelastcached>2006-11-28 14:02:38</obis:datelastcached>
+    <obis:position_id>396566</obis:position_id>
+    <obis:latitude>-34.781502</obis:latitude>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource168"/>
+    <obis:temperature></obis:temperature>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:valid_id>408032</obis:valid_id>
+    <obis:sname_id>97358</obis:sname_id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs11799845">
+    <obis:valid_id>519481</obis:valid_id>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource168"/>
+    <obis:latitude>-34.356899</obis:latitude>
+    <obis:id>11799845</obis:id>
+    <obis:longitude>18.4972</obis:longitude>
+    <obis:temperature></obis:temperature>
+    <obis:position_id>400995</obis:position_id>
+    <obis:lifestage></obis:lifestage>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:datelastmodified>2006-11-07</obis:datelastmodified>
+    <obis:datelastcached>2006-11-29 12:15:34</obis:datelastcached>
+    <obis:depth></obis:depth>
+    <obis:datecollected>2005-11-25 07:59:59.819999-04</obis:datecollected>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:sname_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname86508"/>
+    <obis:display>1</obis:display>
+    <obis:sname_id>86508</obis:sname_id>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs734170">
+    <obis:id>734170</obis:id>
+    <obis:depth>7.5</obis:depth>
+    <obis:display>1</obis:display>
+    <obis:sname_id>63950</obis:sname_id>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:lifestage></obis:lifestage>
+    <obis:datelastmodified>2004-06-10</obis:datelastmodified>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname63950">
+        <obis:lifestage></obis:lifestage>
+        <obis:tname_id>419486</obis:tname_id>
+        <obis:concatenated>PLANTAE||BACILLARIOPHYCAE|CENTRALES|CHAETOCERACEAE|Chaetoceros||||Chaetoceros( hyalochaete ) spp.|</obis:concatenated>
+        <obis:accuracy></obis:accuracy>
+        <obis:tauthor>Ehrenberg, 1844</obis:tauthor>
+        <obis:tname>Chaetoceros</obis:tname>
+        <obis:id_sname>63950</obis:id_sname>
+        <obis:remark>Chaetoceros (Hyalochaete)</obis:remark>
+        <obis:sauthor></obis:sauthor>
+        <obis:snamestring>Chaetoceros( hyalochaete ) spp.</obis:snamestring>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:datecollected>2001-05-07 07:59:59.819999-03</obis:datecollected>
+    <obis:valid_id>419486</obis:valid_id>
+    <obis:position_id>1785806</obis:position_id>
+    <obis:temperature></obis:temperature>
+    <obis:longitude>-21.434999</obis:longitude>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource20"/>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:depthprecision>2.5</obis:depthprecision>
+    <obis:datelastcached>2004-06-26 11:48:55</obis:datelastcached>
+    <obis:latitude>51.525002</obis:latitude>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs20062496">
+    <obis:lifestage></obis:lifestage>
+    <obis:basisofrecord></obis:basisofrecord>
+    <obis:display></obis:display>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:temperature></obis:temperature>
+    <obis:latitude>47.3983</obis:latitude>
+    <obis:id>20062496</obis:id>
+    <obis:datelastcached>2009-10-06 17:03:56</obis:datelastcached>
+    <obis:position_id>1393238</obis:position_id>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:valid_id>746338</obis:valid_id>
+    <obis:longitude>-122.9283</obis:longitude>
+    <obis:depth></obis:depth>
+    <obis:datecollected>2007-06-13 07:59:59.819999-03</obis:datecollected>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:sname_id>52834</obis:sname_id>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource52"/>
+    <obis:datelastmodified>2009-10-01T15:33:37-04:00</obis:datelastmodified>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname52834">
+        <obis:sauthor></obis:sauthor>
+        <obis:concatenated>Bacteria|Bacteroidetes|Flavobacteria|Flavobacteriales||||||Flavobacteriales|</obis:concatenated>
+        <obis:remark></obis:remark>
+        <obis:accuracy></obis:accuracy>
+        <obis:id_sname>52834</obis:id_sname>
+        <obis:tauthor></obis:tauthor>
+        <obis:tname>Flavobacteriales</obis:tname>
+        <obis:snamestring>Flavobacteriales</obis:snamestring>
+        <obis:lifestage></obis:lifestage>
+        <obis:tname_id>746338</obis:tname_id>
+      </obis:sname>
+    </obis:sname_id>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs9578081">
+    <obis:id>9578081</obis:id>
+    <obis:longitude>16.839001</obis:longitude>
+    <obis:datelastmodified>2006-05-05</obis:datelastmodified>
+    <obis:datecollected>2000-11-07 01:12:00-04</obis:datecollected>
+    <obis:temperature></obis:temperature>
+    <obis:datelastcached>2006-07-07 03:52:16</obis:datelastcached>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource125"/>
+    <obis:depthprecision>101.5</obis:depthprecision>
+    <obis:dateprecision>00:00:00</obis:dateprecision>
+    <obis:latitude>-32.630501</obis:latitude>
+    <obis:position_id>416716</obis:position_id>
+    <obis:sname_id>133608</obis:sname_id>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:depth>101.5</obis:depth>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname133608">
+        <obis:remark></obis:remark>
+        <obis:snamestring>Harpacticoida</obis:snamestring>
+        <obis:lifestage></obis:lifestage>
+        <obis:concatenated>Animalia|Arthropoda|Maxillopoda|Harpacticoida||||||Harpacticoida|G. O. Sars, 1903</obis:concatenated>
+        <obis:tauthor>Sars, 1903</obis:tauthor>
+        <obis:id_sname>133608</obis:id_sname>
+        <obis:accuracy></obis:accuracy>
+        <obis:sauthor>G. O. Sars, 1903</obis:sauthor>
+        <obis:tname>Harpacticoida</obis:tname>
+        <obis:tname_id>451684</obis:tname_id>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:display>1</obis:display>
+    <obis:lifestage></obis:lifestage>
+    <obis:valid_id>451684</obis:valid_id>
+    <obis:basisofrecord></obis:basisofrecord>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs7725554">
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname84428">
+        <obis:tauthor>Roth, 1797</obis:tauthor>
+        <obis:concatenated>Plantae|Rhodophyta|Florideophyceae|Ceramiales|Ceramiaceae|Ceramium||||Ceramium|Roth, 1797</obis:concatenated>
+        <obis:accuracy></obis:accuracy>
+        <obis:lifestage></obis:lifestage>
+        <obis:sauthor>Roth, 1797</obis:sauthor>
+        <obis:remark></obis:remark>
+        <obis:tname>Ceramium</obis:tname>
+        <obis:id_sname>84428</obis:id_sname>
+        <obis:tname_id>610949</obis:tname_id>
+        <obis:snamestring>Ceramium</obis:snamestring>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:basisofrecord>O</obis:basisofrecord>
+    <obis:datelastcached>2009-04-03 13:31:40</obis:datelastcached>
+    <obis:datecollected>1996-06-01 07:59:59.819999-03</obis:datecollected>
+    <obis:depth></obis:depth>
+    <obis:position_id>1746147</obis:position_id>
+    <obis:display>1</obis:display>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:sname_id>84428</obis:sname_id>
+    <obis:coordinateprecision>5000</obis:coordinateprecision>
+    <obis:longitude>-3.9610789</obis:longitude>
+    <obis:id>7725554</obis:id>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource68"/>
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:datelastmodified>2005-04-22 00:00:00</obis:datelastmodified>
+    <obis:valid_id>610949</obis:valid_id>
+    <obis:temperature></obis:temperature>
+    <obis:lifestage></obis:lifestage>
+    <obis:latitude>50.153481</obis:latitude>
+  </obis:drs>
+  <obis:drs rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#drs19611408">
+    <obis:dateprecision>11:59:59.819999</obis:dateprecision>
+    <obis:coordinateprecision></obis:coordinateprecision>
+    <obis:display></obis:display>
+    <obis:longitude>8.4029102</obis:longitude>
+    <obis:lifestage></obis:lifestage>
+    <obis:sname_id>
+      <obis:sname rdf:about="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#sname89480">
+        <obis:accuracy></obis:accuracy>
+        <obis:tname_id>739466</obis:tname_id>
+        <obis:id_sname>89480</obis:id_sname>
+        <obis:snamestring>Bacteroidetes</obis:snamestring>
+        <obis:lifestage></obis:lifestage>
+        <obis:tname>Bacteroidetes</obis:tname>
+        <obis:remark></obis:remark>
+        <obis:concatenated>Bacteria|Bacteroidetes||||||||Bacteroidetes|</obis:concatenated>
+        <obis:sauthor></obis:sauthor>
+        <obis:tauthor></obis:tauthor>
+      </obis:sname>
+    </obis:sname_id>
+    <obis:temperature></obis:temperature>
+    <obis:valid_id>739466</obis:valid_id>
+    <obis:depthprecision></obis:depthprecision>
+    <obis:id>19611408</obis:id>
+    <obis:sname_id>89480</obis:sname_id>
+    <obis:basisofrecord></obis:basisofrecord>
+    <obis:latitude>55.03587</obis:latitude>
+    <obis:resource_id rdf:resource="http://web.cs.dal.ca/~hari/pokm/owl/obis.owl#resource52"/>
+    <obis:depth></obis:depth>
+    <obis:datelastmodified>2009-10-01T15:31:47-04:00</obis:datelastmodified>
+    <obis:datecollected>2008-04-10 07:59:59.819999-03</obis:datecollected>
+    <obis:datelastcached>2009-10-06 12:18:03</obis:datelastcached>
+    <obis:position_id>1898379</obis:position_id>
+  </obis:drs>
+  <rdf:Description rdf:about="http://dal.ca#thandu">
+    <gudi:job>dalplex1</gudi:job>
+    <gudi:roomMate rdf:resource="http://dal.ca#haree"/>
+  </rdf:Description>
+</rdf:RDF>

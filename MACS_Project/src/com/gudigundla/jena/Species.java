@@ -72,4 +72,6 @@ public class Species {
 		// TODO Auto-generated method stub
 		return sname;
 	}
+	
+	
 }

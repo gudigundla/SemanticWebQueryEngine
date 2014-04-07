@@ -2,9 +2,9 @@ package com.gudigundla.jena;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.Collections;
 import java.util.Vector;
 
 import com.hp.hpl.jena.query.Query;
@@ -71,7 +71,7 @@ public class learningSPARQL {
 	public Vector<Species> getSpeciesList() throws IOException{
 		
 		species = new Vector<Species>();
-		species.add(new Species("Select one from list", "none"));
+//		species.add(new Species("Select one from list", "none"));
 		
 		// Open the bloggers RDF graph from the filesystem
 				InputStream in = new FileInputStream(new File(path + "obis.rdf"));
@@ -109,9 +109,13 @@ public class learningSPARQL {
 					 //System.out.println(binding.get("speciesName")); 
 					}
 
-				// Important - free up resources used running the query
-				qe.close();
-				return species;
+		//Sorting Vector using Java 8 Lambda Expressions
+		species.sort((s1,s2) -> s1.getSname().compareTo(s2.getSname()));		 
+		species.add(0, new Species("Select one from list", "none"));
+		
+		// Important - free up resources used running the query
+		qe.close();
+		return species;
 
 	}
 	
